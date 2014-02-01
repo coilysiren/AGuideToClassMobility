@@ -25,7 +25,7 @@ those steps.
 <article>
 ### [{{ post.title }}]({{ site.baseurl }}{{ post.url }})
 
-{{ post.description }}
+{{ post.excerpt }}
 
 [Read more]({{ site.baseurl }}{{ post.url }})
 </article>
