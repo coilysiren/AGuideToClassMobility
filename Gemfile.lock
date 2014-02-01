@@ -49,3 +49,4 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll
+  redcarpet
