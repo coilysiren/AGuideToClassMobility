@@ -11,6 +11,13 @@ A guide for class mobilities website!
 * Write that post!
 * Add appropriate tags from the tag lexicon
 
+For helpful tips:
+
+* [Creating a post](http://jekyllrb.com/docs/posts/#creating_post_files)
+* [Defining your excerpt](http://jekyllrb.com/docs/posts/#post_excerpts)
+* [Linking properly since we're on github pages](http://jekyllrb.com/docs/github-pages/#project_page_url_structure)
+* [Including images and resources](http://jekyllrb.com/docs/posts/#including_images_and_resources)
+
 ## Tag Lexicon
 Some common tags for writing your post
 
