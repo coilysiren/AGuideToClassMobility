@@ -23,11 +23,11 @@ those steps.
 <section class="articles">
 {% for post in site.posts %}
 <article>
-### [{{ post.title }}]({{ post.url }})
+### [{{ post.title }}]({{ site.baseurl }}{{ post.url }})
 
 {{ post.description }}
 
-[Read more]({{ post.url }})
+[Read more]({{ site.baseurl }}{{ post.url }})
 </article>
 {% endfor %}
 </section>

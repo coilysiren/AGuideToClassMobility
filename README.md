@@ -30,6 +30,6 @@ Assuming you have a working ruby install:
     git clone https://github.com/LynnCo/AGuideToClassMobility.git
     cd AGuideToClassMobility
     bundle install
-    jekyll serve
+    jekyll serve --baseurl ''
 
 Open [http://localhost:4000/](http://localhost:4000) in your browser.
