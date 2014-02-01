@@ -19,3 +19,15 @@ learned high school math” to “paid programmer”.
 
 It takes more than just going over Python the Hard Way; here's where to find
 those steps.
+
+<section class="articles">
+{% for post in site.posts %}
+<article>
+### [{{ post.title }}]({{ post.url }})
+
+{{ post.description }}
+
+[Read more]({{ post.url }})
+</article>
+{% endfor %}
+</section>
