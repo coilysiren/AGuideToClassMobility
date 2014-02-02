@@ -53,4 +53,5 @@ At every step, you should be asking yourself these three questions:<ul>
 <li>What worked?</li>
 <li>What didn’t work?</li>
 <li>What do I want to try next time?</li></ul>
+
 You can do this at the end of the day, at the end of the week, at the end of the month, or even in the same hour between one conversation and the next. This is known as the Plan-Do-Check-Act cycle and is a powerful method for solving many kinds of problems.
