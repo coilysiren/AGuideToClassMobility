@@ -1,0 +1,17 @@
+---
+---
+{ "posts" : [
+  {% for post in site.posts %}
+    { "id": "{{ post.id }}",
+      "url": "{{ site.baseurl }}{{ post.url }}",
+      "title" : "{{ post.title }}",
+      "tags": [
+      {% for tag in post.tags %}
+        "{{ tag }}"{% if forloop.last %}{% else %},{% endif %}
+      {% endfor %}
+      ],
+      "excerpt": "{{ post.excerpt | escape_once | strip_newlines }}"
+    }{% if forloop.last %}{% else %},{% endif %}
+  {% endfor %}
+  ]
+}

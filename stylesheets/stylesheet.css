@@ -421,3 +421,12 @@ Small Device Styles
   }
 
 }
+
+
+/*** 
+ * CUSTOM STYLES YO
+ ****/
+
+input[type="search"] {
+  width: 100%;
+}

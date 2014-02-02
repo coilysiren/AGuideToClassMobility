@@ -20,7 +20,10 @@ learned high school math” to “paid programmer”.
 It takes more than just going over Python the Hard Way; here's where to find
 those steps.
 
-<section class="articles">
+<input id="search-field" type="search" placeholder="What are you looking for?" /><br />
+
+
+<section id="posts">
 {% for post in site.posts %}
 <article>
 ### [{{ post.title }}]({{ site.baseurl }}{{ post.url }})
@@ -31,3 +34,12 @@ those steps.
 </article>
 {% endfor %}
 </section>
+<script type="text/javascript" src="{{ site.baseurl }}/javascripts/main.js"></script>
+
+<script type="text/template" id="post-template">
+<article>
+  <h3><a href="<%= url %>"><%= title %></a></h3>
+  <p><%= excerpt %></p>
+  <p><a href="<%= url %>">Read More</a></p>
+</article>
+</script>
