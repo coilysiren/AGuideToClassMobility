@@ -2,3 +2,18 @@
 layout: base
 ---
 {{ content }}
+
+<h3>Related Posts</h3>
+<ul id="related-posts">
+{% for other_post in site.posts %}
+  {% assign related = false %}
+
+  {% for tag in other_post.tags %}{% if page.tags contains tag %}
+    {% assign related = true %}
+  {% endif %}{% endfor %}
+
+  {% if related %}
+    <li><a href="{{ site.base_url }}{{ other_post.url }}">{{ other_post.title }}</a></li>
+  {% endif %}
+{% endfor %}
+</ul>
