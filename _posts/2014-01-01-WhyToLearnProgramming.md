@@ -29,6 +29,7 @@ Many complex technologies are built on newer languages that have been explicitly
 ### [{{ post.title }}]({{ site.baseurl }}{{ post.url }})
             
 {{ post.excerpt }}
+
 (% if "True" %}
 {{ post.tags }}
 {% endif %}
