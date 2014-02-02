@@ -10,7 +10,7 @@
         "{{ tag }}"{% if forloop.last %}{% else %},{% endif %}
       {% endfor %}
       ],
-      "excerpt": "{{ post.excerpt | escape_once | strip_newlines }}"
+      "excerpt": "{{ post.excerpt | strip_html | escape_once | strip_newlines }}"
     }{% if forloop.last %}{% else %},{% endif %}
   {% endfor %}
   ]
