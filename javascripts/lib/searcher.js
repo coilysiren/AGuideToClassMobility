@@ -17,7 +17,7 @@ var Searcher = (function() {
       },
       search: function(words) {
         return index.search(words).map(function(result) {
-          return _.extend({}, allPosts[result.ref], result);
+          return _.extend({}, Posts.all[result.ref], result);
         });
       }
     }

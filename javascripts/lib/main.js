@@ -1,30 +1,38 @@
 (function() {
-  var loadPosts = function() {
-    return reqwest({
-      url: 'posts.json'
-    });
-  };
-
-  window.searchPosts = _.debounce(function(words) {
+  var searchPosts = _.debounce(function(words) {
     var results = Searcher.search(words);
-    Renderer.renderPosts(results);
+    PostRenderer.render(results);
   }, 100);
 
   var main = function() {
-    allPosts = {};
-    loadPosts().then(function(posts) {
-      posts.posts.forEach(function(post) {
+    Posts.load().then(function(posts) {
+      Posts.each(function(post) {
         Searcher.indexPost(post);
-        allPosts[post.id] = post;
       });
-    });
 
-    onDomReady(function() {
-      document.getElementById('search-field').addEventListener('keypress', function() {
-        searchPosts(this.value.toLowerCase());
+      onDomReady(function() {
+        TagCloudRenderer.render(Tags.all);
       });
+    })
+
+    var searchHandler = function() {
+      searchPosts(searchField.value.toLowerCase());
+    }
+
+    var hashChangeHandler = function() {
+      var hash = window.location.hash;
+      searchField.value = hash.substr(1, hash.length - 1);
+      searchHandler();
+    }
+
+    var searchField;
+    onDomReady(function() {
+      searchField = document.getElementById('search-field');
+      searchField.addEventListener('keypress', searchHandler);
+      window.addEventListener("hashchange",  hashChangeHandler);
+      hashChangeHandler();
     });
   }
-  main();
 
+  main();
 })();
