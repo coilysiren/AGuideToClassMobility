@@ -1,6 +1,6 @@
 ---
 title: Why to Learn Programming
-layout: default
+layout: post
 excerpt: Why to Learn Programming
 tags:
  - why-to-learn-programming

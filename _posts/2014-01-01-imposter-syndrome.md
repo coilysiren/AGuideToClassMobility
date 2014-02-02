@@ -1,6 +1,6 @@
 ---
 title: Imposter Syndrome
-layout: default
+layout: post
 excerpt: null
 tags:
  - null

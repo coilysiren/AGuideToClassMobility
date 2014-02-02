@@ -1,6 +1,6 @@
 ---
 title: C++
-layout: default
+layout: post
 excerpt: Why would someone want to learn C++?
 tags:
  - learning
