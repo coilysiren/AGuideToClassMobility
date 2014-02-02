@@ -18,6 +18,8 @@ For helpful tips:
 * [Linking properly since we're on github pages](http://jekyllrb.com/docs/github-pages/#project_page_url_structure)
 * [Including images and resources](http://jekyllrb.com/docs/posts/#including_images_and_resources)
 
+[This is my favorite post so far! Use it as an example!](http://lynnco.github.io/AGuideToClassMobility/2014/01/01/howtogetinterviewsintech.html)
+
 ## Tag Lexicon
 Some common tags for writing your post
 
