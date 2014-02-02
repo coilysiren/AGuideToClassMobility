@@ -24,22 +24,22 @@ those steps.
 
 
 <section id="posts">
-{% for post in site.posts %}
-<article>
-### [{{ post.title }}]({{ site.baseurl }}{{ post.url }})
-
-{{ post.excerpt }}
-
-[Read more]({{ site.baseurl }}{{ post.url }})
-</article>
-{% endfor %}
+  {% for post in site.posts %}
+    <article>
+    ### [{{ post.title }}]({{ site.baseurl }}{{ post.url }})
+    
+    {{ post.excerpt }}
+    
+    [Read more]({{ site.baseurl }}{{ post.url }})
+    </article>
+  {% endfor %}
 </section>
 <script type="text/javascript" src="{{ site.baseurl }}/javascripts/main.js"></script>
 
 <script type="text/template" id="post-template">
-<article>
-  <h3><a href="<%= url %>"><%= title %></a></h3>
-  <p><%= excerpt %></p>
-  <p><a href="<%= url %>">Read More</a></p>
-</article>
+  <article>
+    <h3><a href="<%= url %>"><%= title %></a></h3>
+    <p><%= excerpt %></p>
+    <p><a href="<%= url %>">Read More</a></p>
+  </article>
 </script>
