@@ -1,7 +1,7 @@
 ---
-title: Python
+title: Ruby
 layout: default
-excerpt: Why would someone want to learn python?
+excerpt: Why would someone want to learn ruby?
 tags:
  - learning
  - languages
@@ -10,4 +10,4 @@ tags:
 published: true
 ---
 
-(stuff about rails)
+(stuff about rails - seriously! stress the ruby rails connection!)
