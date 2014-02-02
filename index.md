@@ -26,7 +26,7 @@ those steps.
 <p id="tag-cloud">&nbsp;</p>
 
 <section id="posts">
-  {% for post in site.posts %}
+{% for post in site.posts %}
 <article>
 ### [{{ post.title }}]({{ site.baseurl }}{{ post.url }})
 
@@ -40,8 +40,8 @@ those steps.
 
 <script type="text/template" id="post-template">
 <article>
-  <h3><a href="<%= url %>"><%= title %></a></h3>
-  <p><%= excerpt %></p>
-  <p><a href="<%= url %>">Read More</a></p>
+<h3><a href="<%= url %>"><%= title %></a></h3>
+<p><%= excerpt %></p>
+<p><a href="<%= url %>">Read More</a></p>
 </article>
 </script>

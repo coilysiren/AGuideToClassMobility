@@ -22,15 +22,3 @@ Many complex technologies are built on newer languages that have been explicitly
 <!--Might add that the framework for programming transfers well between different languages, kind of like learning how grammar works.-->
 
 <!-- links to languages -->
-
-<section id="posts">
-{% for post in site.posts %}
-<article>
-### [{{ post.title }}]({{ site.baseurl }}{{ post.url }})
-            
-{{ post.excerpt }}
-
-[Read more]({{ site.baseurl }}{{ post.url }})
-</article>
-{% endfor %}
-</section>
