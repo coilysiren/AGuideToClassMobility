@@ -1,7 +1,7 @@
 ---
 title: Python
 layout: default
-description: Why would someone want to learn python?
+excerpt: Why would someone want to learn python?
 tags:
  - learning
  - languages
