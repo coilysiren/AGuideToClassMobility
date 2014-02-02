@@ -3,8 +3,7 @@ title: A sample post
 layout: default
 excerpt: a description
 tags:
- - getting-paid-for-your-work
- - college-preperation
+ - null
 published: false
 ---
 
