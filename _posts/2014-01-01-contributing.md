@@ -1,6 +1,6 @@
 ---
 title: Contributing
-layout: default
+layout: post
 excerpt: how to work on other people's projects!
 tags:
  - incomplete
