@@ -1,6 +1,6 @@
 ---
 title: Web design
-layout: default
+layout: post
 excerpt: Why would someone want to learn HTML / CSS / JS?
 tags:
  - learning

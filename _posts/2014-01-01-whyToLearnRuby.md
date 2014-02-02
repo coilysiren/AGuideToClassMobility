@@ -1,6 +1,6 @@
 ---
 title: Ruby
-layout: default
+layout: post
 excerpt: Why would someone want to learn ruby?
 tags:
  - learning

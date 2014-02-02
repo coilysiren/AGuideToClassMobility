@@ -1,6 +1,6 @@
 ---
 title: Working Through School
-layout: default
+layout: post
 description: General tips for working your way through college and other higher-ed
 tags:
  - working-through-school

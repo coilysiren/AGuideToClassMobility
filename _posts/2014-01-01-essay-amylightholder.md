@@ -1,6 +1,6 @@
 ---
 title: Amy Lightholder - Finding Opportunities
-layout: default
+layout: post
 excerpt: null
 tags:
  - essay

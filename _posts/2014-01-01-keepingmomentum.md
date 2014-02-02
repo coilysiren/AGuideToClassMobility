@@ -1,6 +1,6 @@
 ---
 title: A sample post
-layout: default
+layout: post
 excerpt: a description
 tags:
  - null

@@ -1,6 +1,6 @@
 ---
 title: Java
-layout: default
+layout: post
 excerpt: Why would someone want to learn Java?
 tags:
  - learning

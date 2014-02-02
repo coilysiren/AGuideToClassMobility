@@ -1,6 +1,6 @@
 ---
 title: Programming And...
-layout: default
+layout: post
 excerpt: Syncing programming with your other interests
 tags:
  - art

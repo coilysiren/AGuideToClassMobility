@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 ---
 
 People are aware that someone can learn to code, and then hit it big. One liners
