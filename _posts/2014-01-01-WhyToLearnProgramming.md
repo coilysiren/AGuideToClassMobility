@@ -25,14 +25,13 @@ Many complex technologies are built on newer languages that have been explicitly
 
 <section id="posts">
 {% for post in site.posts %}
-{% if "language" contains post.tags %}
 <article>
 ### [{{ post.title }}]({{ site.baseurl }}{{ post.url }})
             
 {{ post.excerpt }}
-            
+{{ post.tags }}
+
 [Read more]({{ site.baseurl }}{{ post.url }})
 </article>
-{% endif %}
 {% endfor %}
 </section>
