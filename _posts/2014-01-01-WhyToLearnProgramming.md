@@ -24,13 +24,13 @@ Many complex technologies are built on newer languages that have been explicitly
 <!-- links to languages -->
 
 <section id="posts">
-    {% for post in site.posts %}
-        <article>
-            ### [{{ post.title }}]({{ site.baseurl }}{{ post.url }})
+{% for post in site.posts %}
+<article>
+### [{{ post.title }}]({{ site.baseurl }}{{ post.url }})
             
-            {{ post.excerpt }}
+{{ post.excerpt }}
             
-            [Read more]({{ site.baseurl }}{{ post.url }})
-        </article>
-    {% endfor %}
+[Read more]({{ site.baseurl }}{{ post.url }})
+</article>
+{% endfor %}
 </section>
