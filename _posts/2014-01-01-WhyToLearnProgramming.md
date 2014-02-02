@@ -25,6 +25,7 @@ Many complex technologies are built on newer languages that have been explicitly
 
 <section id="posts">
 {% for post in site.posts %}
+{% if language in post.tags %}
 <article>
 ### [{{ post.title }}]({{ site.baseurl }}{{ post.url }})
             
@@ -32,5 +33,6 @@ Many complex technologies are built on newer languages that have been explicitly
             
 [Read more]({{ site.baseurl }}{{ post.url }})
 </article>
+{% endif %}
 {% endfor %}
 </section>
