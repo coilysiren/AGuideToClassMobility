@@ -10,3 +10,5 @@ published: true
 ---
 
 filler
+
+to write about: open source (as a concept), git / github, bugzilla
