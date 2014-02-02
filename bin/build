@@ -1,0 +1,4 @@
+#!/bin/bash
+
+cat javascripts/vendor/*.js javascripts/lib/*.js > javascripts/main.js
+bin/jekyll build
