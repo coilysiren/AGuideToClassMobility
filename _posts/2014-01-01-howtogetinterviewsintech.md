@@ -1,11 +1,13 @@
 ---
 title: How to get paid internships in tech
 layout: default
-description: Before you can get a job in tech, you typically need to work on internships. Luckily, many tech internships are paid. Here's how to get them 
+excerpt: Before you can get a job in tech, you typically need to work on internships. Luckily, many tech internships are paid. Here's how to get them 
 tags:
  - getting-paid-for-your-work
  - internships
-published: false
+ - money
+ - jobs
+published: true
 ---
 
 When it comes to hiring in technology, many times it depends on who you know. Many entry-level employees get those connections that lead to full-time jobs through internships. Many internships in technology are paid, making them fantastic opportunities to get paid while you learn new technology skills.
@@ -39,7 +41,7 @@ Additionally, many organizations use collaborative coding tools such as Github o
 
 Once you send your resumes to tech companies, you will be called in for an interview. Technical interviews are different from your typical interview, but easy to prepare for. Study [Cracking the Coding Interview](http://www.amazon.com/books/dp/098478280X), a book outlining 150 different programming questions and solutions similar to questions your interviewers will be asking. Borrow it from a friend or check it out at the library.
 
-* (Interviewing tips from Google)[http://www.google.com/about/jobs/lifeatgoogle/interviewinggoogle.html]
+* [Interviewing tips from Google](http://www.google.com/about/jobs/lifeatgoogle/interviewinggoogle.html)
 
 
 ### Internship Programs
