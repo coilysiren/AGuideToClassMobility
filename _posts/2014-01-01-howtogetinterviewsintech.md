@@ -41,7 +41,7 @@ Additionally, many organizations use collaborative coding tools such as Github o
 
 Once you send your resumes to tech companies, you will be called in for an interview. Technical interviews are different from your typical interview, but easy to prepare for. Study [Cracking the Coding Interview](http://www.amazon.com/books/dp/098478280X), a book outlining 150 different programming questions and solutions similar to questions your interviewers will be asking. Borrow it from a friend or check it out at the library.
 
-* (Interviewing tips from Google)[http://www.google.com/about/jobs/lifeatgoogle/interviewinggoogle.html]
+* [Interviewing tips from Google](http://www.google.com/about/jobs/lifeatgoogle/interviewinggoogle.html)
 
 
 ### Internship Programs
