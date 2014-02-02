@@ -1,13 +1,17 @@
 ---
-title: Python
+title: Programming And...
 layout: default
-excerpt: Why would someone want to learn python?
+excerpt: Syncing programming with your other interests
 tags:
- - learning
- - languages
- - python
+ - art
+ - design
+ - astronomy
 published: true
 ---
+
+<!--
+Each interest needs its own tag... that's a lot of tags :(
+-->
 
 **Art and Design**
 
