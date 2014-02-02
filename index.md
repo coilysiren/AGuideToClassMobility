@@ -20,11 +20,13 @@ learned high school math” to “paid programmer”.
 It takes more than just going over Python the Hard Way; here's where to find
 those steps.
 
+
 <input id="search-field" type="search" placeholder="What are you looking for?" /><br />
 
+<p id="tag-cloud">&nbsp;</p>
 
 <section id="posts">
-{% for post in site.posts %}
+  {% for post in site.posts %}
 <article>
 ### [{{ post.title }}]({{ site.baseurl }}{{ post.url }})
 
