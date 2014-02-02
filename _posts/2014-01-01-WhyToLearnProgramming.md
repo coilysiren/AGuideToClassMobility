@@ -30,10 +30,6 @@ Many complex technologies are built on newer languages that have been explicitly
             
 {{ post.excerpt }}
 
-(% for tag in post.tags %}
-{{ tag }}</br>
-{% endfor %}
-
 [Read more]({{ site.baseurl }}{{ post.url }})
 </article>
 {% endfor %}
