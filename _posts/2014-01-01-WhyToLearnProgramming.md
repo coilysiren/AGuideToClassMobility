@@ -1,7 +1,7 @@
 ---
 title: Why to Learn Programming
 layout: default
-description: Why to Learn Programming
+excerpt: Why to Learn Programming
 tags:
  - why-to-learn-programming
 published: false
