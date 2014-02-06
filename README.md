@@ -41,3 +41,66 @@ Assuming you have a working ruby install:
     jekyll serve --baseurl ''
 
 Open [http://localhost:4000/](http://localhost:4000) in your browser.
+
+### Things the need to be written about / resources compiled on
+
+Working on projects (personal or otherwise)
+* contributing to projects (git and buzilla)
+* setting up personal projects (github! version control yay!)
+
+Personal stories / interviews (need question forms!)
+* go poke people to host their personal stories on the site - maybe also videos?
+* get interview question forms!
+
+Getting money from people
+contracts
+internships [how to get]
+internships [a list!]
+jobs
+diversity scholarships! [how to ask, when to ask, who to ask]
+
+Community and tech culture [i.e. hella links!]
+the giants [hacker news *bla*] (its important to be aware of their existance!)
+finding people in physical space [i.e. meetup]
+mailing lists [women who code, code xhic, model view culture,  …?]
+creating community!
+[minority] in tech [ex. blackgirlscode.com, women who code, transhack.org, http://www.digitalundivided.com/, lpfi.org, gracehopper.org/, techladymafia.com, systers, double union, model view culture]
+fitting into established space [knowing how to manage oppression, co-opting privileged identities]
+filling out your own unique space
+broad information and culture [Ted Talks, medium?]
+networking! [networking as a human]
+
+Information about mental and societal constructs
+keeping your momentum
+imposter syndrome [http://www.ted.com/talks/amy_cuddy_your_body_language_shapes_who_you_are.html] [http://adainitiative.org/what-we-do/impostor-syndrome-training/]
+burn out
+the meritocracy
+the “good old boys club”
+
+Awesome companies [i.e. commited to inclusivity!]
+Find a page on the geek feminism wiki about this, I’m sure it exists!
+microsoft
+mozilla [really good about queer people]
+new relic [hosts lots of women who code events]
+heroku
+non-profits [http://kaporcenter.org/]
+
+Leveraging resources
+Money
+Community
+Family
+Tech
+The government
+
+Structured Education
+corporate tuition assistance programs
+loans [private and federal]
+college [in general]
+public vs. private college
+community college
+Ivy league schools
+training programs [ex. hackbright, app academy]
+
+    Intersectional Feminism 101
+census stats about oppresion etc
+privilege oppression matrix basics
