@@ -19,18 +19,6 @@ For helpful tips:
 * [Including images and resources](http://jekyllrb.com/docs/posts/#including_images_and_resources)
 * [This is my favorite post so far! Use it as an example!](http://lynnco.github.io/AGuideToClassMobility/2014/01/01/howtogetinterviewsintech.html)
 
-## Tag Lexicon
-Some common tags for writing your post
-
-* get-paid-for-your-work
-* fun-your-education
-* find-mentors
-* for-high-school-students
-* for-high-school-graduates
-* for-college-students
-* for-college-graduates
-* for-people-with-dependents
-
 ## Testing Locally
 
 Assuming you have a working ruby install:
