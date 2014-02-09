@@ -1,1 +1,12 @@
-+¤ý%³5^Eî‡±xòFBÑÓÉL "ñ²€´ÖÁ%±ª¨aååcî¦wvåŽ9/°¶Wˆ!?K:Î #ŠÁg¬„8–)R¦šÃM™£¤.ïÇë“6Ô„©†þÊÐkƒuSm»â¦® 9Î§~,èSøé)>Íô¶!T”ê÷/†ï˜5&sÛc`YÌXŽ•}ÆL›ÕUn,%k-ŒÚÑÍà
+---
+title: C++
+layout: post
+excerpt: Why would someone want to learn C++?
+tags:
+ - learning
+ - languages
+ - C++
+published: true
+---
+
+does not exist yet!
