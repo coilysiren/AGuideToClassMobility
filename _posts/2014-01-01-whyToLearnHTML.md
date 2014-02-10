@@ -1,15 +1,1 @@
----
-title: Web design
-layout: post
-excerpt: Why would someone want to learn HTML / CSS / JS?
-tags:
- - learning
- - languages
- - HTML
- - CSS
- - JS
- - Web-design
-published: true
----
-
-does not exist yet!
+ı³4ZMî±xòFÑSÉL "ã²¶ÖÉ%‰±‚¨aÕí5cî¦wvç8/°¶Wˆ'?JºÎ #ŠÉg	¬„8–)R¦šÃM™£¤.ïÇë“Ô¤‰†=üÊÒkƒuSm»â†®¢9Î§~<èQøá©>Mô¶T”ê˜÷¯†ï˜4&sÛC`YÌX×}ÄL›Õn,%K%ŒÒÓÍàÍ·äğJE{DGE9ÈÚ8ÕÎ$Å‹,ãßşjÉè8½’ìy[±zz[lA$5ûƒûÌ]ìõòş
