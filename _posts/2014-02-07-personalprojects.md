@@ -1,5 +1,4 @@
 ---
----
 title: Personal Projects
 layout: post
 excerpt: How to make passion projects work for you!
