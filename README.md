@@ -1,3 +1,7 @@
+#### In the middle of a massive revamp! Check back in a few weeks
+
+---
+
 # AGuideToClassMobility
 
 A guide for class mobilities website!
